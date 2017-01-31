@@ -76,7 +76,7 @@ void setup()
 {
   // Init serial port
   Serial.begin(115200);
-  delay(500);
+  delay(750);
   Serial.println();
   Serial.println();
   Serial.println();
